@@ -1,0 +1,28 @@
+Updated/New Assets for QTV Experiences
+
+images/sprites/changeRooms/
+	+large_cat_rev.png
+	+large_dog_rev.png
+
+images/sprites/mobility/
+	+largeDog_10fps.png
+
+images/sprites/recordSows
+	+large_cat.png
+	+large_dog.png
+
+images/sprites/setup
+	+sprite_setup_bedroom.png
+	+sprite_setup_cats.png
+	+sprite_setup_kitchen.png
+	+sprite_setup_office.png
+	+sprite_setup_livingroom.png
+
+images/ui/
+	+sprite_ui.png
+
+images
+	+welcome.gif
+
+
+
