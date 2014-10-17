@@ -1,0 +1,5 @@
+emoji
+https://github.com/carpedm20/emoji
+
+twython
+http://twython.readthedocs.org/en/latest/
